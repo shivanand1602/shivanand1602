@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanand1602" alt="shivanand1602" /></a> </p>
 
-- 🔭 I’m currently working on **ECommerce Website**
 
-- 🌱 I’m currently learning **Java Script, Bootstrap**
+- 🌱 I’m currently learning **Backend Development Stuff**
 
 - 💬 Ask me about **Programming and Development related stuff**
 
